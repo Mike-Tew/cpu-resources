@@ -1,6 +1,3 @@
-# TODO
-# Change colors depending on usage percentages.
-
 from tkinter import Tk, Label
 from psutil import cpu_percent, virtual_memory
 
